@@ -100,7 +100,7 @@ Key cleaning steps in **Excel**:
 ## 👤 Author
 **Dipendra Limbu**  
 📍 Nepal  
-💼 Data Analyst | Business Intelligence Enthusiast  
+💼 Data Analyst | Business Intelligence Analyst 
 🔗 [LinkedIn](https://www.linkedin.com/in/dipendra-limbu-4234901a9/) | [GitHub](#)
 
 ---
