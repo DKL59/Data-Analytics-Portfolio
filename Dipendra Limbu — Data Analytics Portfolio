@@ -1,0 +1,85 @@
+# 📊 Dipendra Limbu — Data Analytics Portfolio
+
+Welcome to my data analytics portfolio!  
+This repository showcases a selection of projects demonstrating my ability to transform raw data into actionable insights through analysis, visualization, and business storytelling.  
+
+These projects were completed as part of the **Data Analytics Career Accelerator** from **The London School of Economics and Political Science (LSE)** in collaboration with **FourthRev**, along with independent analytical work.
+
+---
+
+## 🧠 Featured Projects
+
+### [1️⃣ 2Market Data Analysis](./2Market-Data-Analysis)
+![2Market Banner](./2Market-Data-Analysis/banner.png)
+
+**Objective:**  
+To help **2Market**, a retail company, design a data-driven marketing campaign by understanding its customers, products, and advertising channels.
+
+**Key Highlights:**
+- Cleaned and structured customer and sales data using Excel and PostgreSQL  
+- Built interactive dashboards in Tableau showing demographic insights and sales patterns  
+- Identified top-performing products and most effective advertising channels  
+- Recommended targeted marketing strategies based on data trends  
+
+**Tools:** Excel | SQL (PostgreSQL) | Tableau
+
+---
+
+### [2️⃣ NHS Capacity and Resource Utilisation Analysis](./NHS-Capacity-Analysis)
+![NHS Banner](./NHS-Capacity-Analysis/banner.png)
+
+**Objective:**  
+To help the **National Health Service (NHS)** evaluate whether to expand its capacity by analysing resource utilisation across its networks.
+
+**Key Highlights:**
+- Conducted time-series and utilisation analysis on appointment and capacity datasets  
+- Visualized performance by location, service setting, and healthcare provider type  
+- Found underutilisation and recommended optimising existing resources instead of expanding capacity  
+- Suggested areas for further analysis (e.g., post-2021 appointment decline)  
+
+**Tools:** Python (Pandas, Matplotlib, Seaborn) | Jupyter Notebook  
+
+---
+
+### [3️⃣ Turtle Games Customer Trends Analysis](./Turtle-Games-Insights)
+![Turtle Games Banner](./Turtle-Games-Insights/banner.png)
+
+**Objective:**  
+To help **Turtle Games** improve overall sales performance by identifying customer trends and loyalty drivers.
+
+**Key Highlights:**
+- Analyzed demographic variables (age, remuneration, spending score) vs. loyalty points  
+- Found positive correlation between spending and loyalty accumulation  
+- Segmented customers into five clusters based on income and spending behaviour  
+- Performed sentiment analysis using TextBlob on customer summaries and reviews  
+- Derived insights to improve loyalty programs and marketing strategies  
+
+**Tools:** Python (Pandas, Seaborn, TextBlob) | NLP | Jupyter Notebook  
+
+---
+
+## 🧰 Tools & Technologies
+| Category | Tools & Languages |
+|-----------|------------------|
+| **Data Analysis** | Python (Pandas, NumPy), Excel, SQL (PostgreSQL) |
+| **Data Visualization** | Tableau, Excel, Matplotlib, Seaborn |
+| **Statistical & Text Analysis** | Statsmodels, TextBlob |
+| **Development Environment** | Jupyter Notebook |
+---
+
+## 💼 Core Skills
+- Data cleaning, transformation, and validation  
+- Exploratory data analysis (EDA) and visualization  
+- Dashboard development and storytelling  
+- Business intelligence reporting  
+- Statistical reasoning and segmentation  
+- Sentiment analysis and NLP  
+- Communicating insights to non-technical audiences  
+
+---
+
+## 🏁 Summary
+This portfolio demonstrates my capability to analyze, visualize, and communicate insights from datasets to drive business decisions.  
+Each project highlights a different area of data analytics — from customer insights and marketing to public health resource optimization.  
+
+---
