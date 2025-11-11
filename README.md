@@ -21,9 +21,9 @@ This analysis sought to uncover:
 ## 🧰 Tools & Technologies
 | Category | Tools Used |
 |-----------|-------------|
-| Data Cleaning & Preparation | **Excel** |
+| Data Cleaning & Preparation | **Microsoft Excel** |
 | Database Management | **PostgreSQL** |
-| Data Visualization | **Power BI** |
+| Data Visualization | **Tableau/Microsoft Excel** |
 | Querying & Analysis | **SQL** |
 | Documentation | **MS Word / PDF** |
 
@@ -71,7 +71,7 @@ Key cleaning steps in **Excel**:
 - **Top-selling product:** Alcoholic Beverages  
 - **Highest spending age group:** 50–59 years  
 - Sales rise with income up to \$79k, then gradually decline.  
-- Meat products lead among customers earning **> \$100k**.
+- Meat products sells most among customers earning **> \$100k**.
 
 ### 📣 Advertising Effectiveness
 - **Most effective channel:** Twitter  
@@ -97,18 +97,11 @@ Key cleaning steps in **Excel**:
 
 ---
 
-## 📚 Project Files
-- `2Market_Data_Analysis_Report.pdf` – Full technical report  
-- `dashboard_screenshots/` – Power BI visual exports *(add screenshots here)*  
-- `queries.sql` – SQL queries used for analysis *(optional)*  
-
----
-
 ## 👤 Author
 **Dipendra Limbu**  
 📍 Nepal  
 💼 Data Analyst | Business Intelligence Enthusiast  
-🔗 [LinkedIn](#) | [GitHub](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/dipendra-limbu-4234901a9/) | [GitHub](#)
 
 ---
 
