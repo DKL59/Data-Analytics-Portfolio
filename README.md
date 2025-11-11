@@ -1,7 +1,7 @@
 # 🧠 2Market Data Analysis Project
 
 ## 📋 Overview
-This project was completed as part of the **Data Analytics Career Accelerator** from the **London School of Economics and Political Science (LSE)** in collaboration with FourthRev.
+This project was completed as part of the **Data Analytics Career Accelerator** from **The London School of Economics and Political Science (LSE)** in collaboration with FourthRev.
 
 **Objective:**  
 To help the marketing team at **2Market** design a data-driven marketing campaign by understanding their customers, products, and advertising channels.
