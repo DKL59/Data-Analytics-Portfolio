@@ -1,1 +1,116 @@
-# Data-Analysis-Portfolio
+# 🧠 2Market Data Analysis Project
+
+## 📋 Overview
+This project was completed as part of the **Data Analytics Career Accelerator** from the **London School of Economics and Political Science (LSE)** in collaboration with FourthRev.
+
+**Objective:**  
+To help the marketing team at **2Market** design a data-driven marketing campaign by understanding their customers, products, and advertising channels.
+
+---
+
+## 🎯 Business Problem
+> “2Market needs to create a marketing campaign, and for that, it must understand its customers, products, and advertising channels.”
+
+This analysis sought to uncover:
+- Who are the key customer segments (age, income, marital status, country)?
+- Which product categories generate the most sales overall and by customer group?
+- Which advertising channels are most effective for different demographics?
+
+---
+
+## 🧰 Tools & Technologies
+| Category | Tools Used |
+|-----------|-------------|
+| Data Cleaning & Preparation | **Excel** |
+| Database Management | **PostgreSQL** |
+| Data Visualization | **Power BI** |
+| Querying & Analysis | **SQL** |
+| Documentation | **MS Word / PDF** |
+
+---
+
+## 🔍 Data Preparation
+The raw dataset contained customer, product, and marketing information.  
+Key cleaning steps in **Excel**:
+
+- Used the `TRIM()` function to remove blank spaces in headers.  
+- Renamed unclear columns based on metadata.  
+- Standardized country abbreviations (`SP` → `ESP`, `SA` → `RSA`).  
+- Converted income and date columns from text to numeric/date types.  
+- Removed three invalid records (ages beyond the oldest known human).  
+- Calculated customer ages using **2024** as the base year.  
+- Imported the final cleaned dataset (**2,213 records**) into **PostgreSQL** for further analysis.
+
+---
+
+## 📊 Dashboard Design
+
+### 1. Customer Demographics & Sales Dashboard
+**Goal:** Visualize customer composition and product sales by demographic group.  
+**Features:**
+- Bar charts and a map showing country distribution.  
+- Interactive filters for age, income, marital status, and country.  
+- Accessible color palette and readable fonts.
+
+### 2. Advertising Channel Effectiveness Dashboard
+**Goal:** Measure performance of each advertising channel by customer group.  
+**Features:**
+- Bar charts comparing channel effectiveness by age, country, and marital status.  
+- Interactive filters for exploring specific customer segments.
+
+---
+
+## 📈 Key Insights
+
+### 🧍 Customer Demography
+- **Average customer age:** 54 years  
+- **Average income:** \$52,237  
+- Majority of customers are **married** and live in **Spain (49%)**
+
+### 🛒 Product Sales
+- **Top-selling product:** Alcoholic Beverages  
+- **Highest spending age group:** 50–59 years  
+- Sales rise with income up to \$79k, then gradually decline.  
+- Meat products lead among customers earning **> \$100k**.
+
+### 📣 Advertising Effectiveness
+- **Most effective channel:** Twitter  
+- **Least effective channel:** Brochure  
+- Channel performance varies slightly by country and marital status.
+
+---
+
+## 💡 Recommendations
+- Prioritize **Twitter** for advertising campaigns.  
+- Target **50–59-year-old** customers, especially in **Spain**.  
+- Promote alcoholic beverages and meat products to high-income customers.  
+- Further analyze **in-store vs online sales** and **ad effectiveness by age/income**.
+
+---
+
+## 🧩 Skills Demonstrated
+- Data cleaning & transformation in Excel  
+- SQL querying & data import in PostgreSQL  
+- Dashboard design in Power BI  
+- Exploratory data analysis & trend discovery  
+- Business storytelling & insight communication  
+
+---
+
+## 📚 Project Files
+- `2Market_Data_Analysis_Report.pdf` – Full technical report  
+- `dashboard_screenshots/` – Power BI visual exports *(add screenshots here)*  
+- `queries.sql` – SQL queries used for analysis *(optional)*  
+
+---
+
+## 👤 Author
+**Dipendra Limbu**  
+📍 Nepal  
+💼 Data Analyst | Business Intelligence Enthusiast  
+🔗 [LinkedIn](#) | [GitHub](#)
+
+---
+
+## 🏁 Summary
+This project demonstrates a complete analytics workflow — from data cleaning to visualization and insight generation — translating data into actionable marketing recommendations for strategic decision-making.
