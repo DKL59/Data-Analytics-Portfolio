@@ -1,0 +1,108 @@
+# 🏥 NHS Capacity and Resource Utilisation Analysis
+
+## 📋 Overview
+This project was completed as part of the **Data Analytics Career Accelerator** from **TheLondon School of Economics and Political Science (LSE)** in collaboration with FourthRev.
+
+**Objective:**  
+To help the **National Health Service (NHS)** assess whether to expand its capacity by analyzing utilisation trends across its healthcare networks.
+
+---
+
+## 🎯 Business Problem
+> “NHS needs to budget correctly when expanding its infrastructure and resources to match its increasing population capacity.”
+
+Key analytical questions:
+1. What was the actual utilisation of NHS resources?  
+2. Has there been adequate staff and capacity across networks?  
+3. Should NHS increase its capacity?
+
+---
+
+## 🧰 Tools & Technologies
+| Category | Tools Used |
+|-----------|-------------|
+| Data Analysis & Cleaning | **Python (Pandas, NumPy)** |
+| Data Visualization | **Matplotlib, Seaborn** |
+| Development Environment | **Jupyter Notebook** |
+| Documentation | **MS Word / PDF** |
+
+---
+
+## 🔍 Analytical Approach
+
+### Step 1. Data Loading
+- Uploaded multiple datasets (e.g., `actual_duration.csv`, `appointment_records.csv`, `network_capacity.csv`) into Jupyter Notebook.  
+- Verified dataset integrity with `.shape`, `.columns`, `.info()`, and `.describe()`.
+
+### Step 2. Data Preparation
+- Checked and handled missing values using `.isnull().sum()`.  
+- Converted date columns to `datetime` format for time-based analysis.  
+- Ensured uniform date structures across all datasets.  
+- Cleaned and validated numerical and categorical data.
+
+### Step 3. Data Visualization
+- Used **Matplotlib** and **Seaborn** for trend and comparative analysis.  
+- Applied consistent figure sizes and clean white plot styles for accessibility.  
+- Created visualizations to track utilisation trends, appointment types, and staffing levels.
+
+---
+
+## 📊 Key Findings
+
+### 1️⃣ Actual Utilisation of Resources
+- The **average daily appointment count** was consistently **below the maximum capacity threshold** of **1,200,000 appointments/day**.  
+- The trend indicated **excess capacity** across the time frame analyzed.  
+- Overall utilisation levels were **decreasing** over time.
+
+### 2️⃣ Adequacy of Staff and Capacity
+- Across all dimensions — **HCP type**, **service setting**, **context type**, **national category**, and **location** — utilisation stayed below maximum capacity.  
+- This indicates that both **staffing levels and existing infrastructure** were adequate to handle patient demand.
+
+### 3️⃣ Should NHS Increase Capacity?
+- No.  
+  - The findings show excess capacity across the network.  
+  - Therefore, increasing infrastructure or staffing levels is **not recommended** at this stage.
+
+---
+
+## 📈 Trend Analysis Highlights
+
+| Dimension | Insight |
+|------------|----------|
+| **Appointment Type** | Face-to-Face appointments showed a steady upward trend, while telephone appointments declined. |
+| **Appointment Status** | Total appointments attended increased initially but declined after **Nov 2021**. Attendance rates (in %) remained relatively stable. |
+| **Service Setting** | General Practice exhibited the highest utilisation among all service settings. |
+| **Context Type** | Care-related encounters showed the highest utilisation rate. |
+| **National Category** | General consultation (routine) was the most common appointment type. |
+| **Sub-ICB Location** | NHS North West London ICB - W2U3Z recorded the highest utilisation among all locations. |
+
+---
+
+## 💡 Recommendations
+1. **Do not expand capacity** — current resources are under-utilized.  
+2. **Investigate the decline** in total appointments post-November 2021 to understand operational or external factors.  
+3. **Enhance efficiency** by optimizing existing resource use before considering expansion.  
+4. Explore further segmentation of utilisation by **age group**, **service type**, and **regional demand**.
+
+---
+
+## 🧩 Skills Demonstrated
+- Data wrangling and preprocessing using **Pandas**  
+- Exploratory Data Analysis (EDA) with **Matplotlib** and **Seaborn**  
+- Time series analysis and trend detection  
+- Statistical reasoning and capacity modelling  
+- Data storytelling for operational decision-making  
+
+---
+
+## 👤 Author
+**Dipendra Limbu**  
+📍 Nepal  
+💼 Data Analyst | Business Intelligence Enthusiast  
+🔗 [LinkedIn](https://www.linkedin.com/in/dipendra-limbu-4234901a9/) | [GitHub](#)
+
+---
+
+## 🏁 Summary
+This analysis provided actionable insights to support NHS decision-making on capacity expansion.  
+By identifying under-utilisation and excess capacity, the project demonstrated how data-driven evidence can guide **strategic budgeting and operational efficiency** within public health services.
