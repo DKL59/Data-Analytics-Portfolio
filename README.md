@@ -77,16 +77,12 @@ I’m now looking for remote opportunities as a Data Analyst, Business Intellige
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/dipendra-limbu-4234901a9/" target="_blank">
+  <a href="https://www.linkedin.com/in/dipendra-limbu-4234901a9/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40"/>
   </a>
-  <a href="https://github.com/DKL59" target="_blank">
+  <a href="https://github.com/DKL59" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>
   </a>
 </p>
 
 ---
-
-⭐ **Tip:** Replace the profile photo link above with your own:
-```html
-<img src="https://avatars.githubusercontent.com/yourgithubid" alt="Dipendra Limbu" width="120">
