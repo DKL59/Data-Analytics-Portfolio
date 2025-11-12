@@ -1,12 +1,12 @@
 <!-- PROFILE SECTION -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" alt="Dipendra Limbu" width="120" style="border-radius: 50%;">
+  <img src="./Dipen.jpg" alt="Dipendra Limbu" width="120" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">📊 Dipendra Limbu</h1>
 <p align="center">
-  <b>Data Analyst | Business Intelligence Enthusiast</b><br>
-  📍 Nepal | 🌍 Open to Remote Roles (UK / USA)  
+  <b>Data Analyst | Business Intelligence</b><br>
+  📍 Nepal | 🌍 Open to Remote Roles  
   <br>
   🎓 LSE Data Analytics Career Accelerator (Distinction)
 </p>
@@ -15,9 +15,10 @@
 
 ## 🧩 About Me
 Hi! I’m **Dipendra**, a data analyst passionate about uncovering insights and turning complex datasets into clear, actionable stories.  
-I specialize in **Python**, **SQL**, **Power BI**, and **Excel**, and I enjoy connecting business goals with data-driven solutions.  
+I specialize in **Python**, **SQL**, **Tableau**, and **Excel**, and I enjoy connecting business goals with data-driven solutions.  
 
-I’ve completed projects analyzing marketing performance, healthcare resource utilization, and customer behavior — all designed to support smarter decision-making.
+I’ve completed projects analyzing marketing performance, healthcare resource utilization, and customer behavior — all designed to support data driven 
+decision-making.
 
 ---
 
@@ -38,7 +39,7 @@ I’ve completed projects analyzing marketing performance, healthcare resource u
 ## 🧠 Featured Projects
 
 ### 🧩 [1️⃣ 2Market Data Analysis Project](./2Market-Data-Analysis-Project)
-![2Market Banner](./2Market-Data-Analysis-Project/banner.png)
+![2Market Banner]([./2Market-Data-Analysis-Project/banner.png](https://chatgpt.com/backend-api/estuary/content?id=file_00000000d948720686e9606a4a3f8aa2&ts=489702&p=fs&cid=1&sig=5a35be443d939d021949151bb44770f54ed7a18b6dc1fd219e2550bf0dff3fd6&v=0))
 
 **Goal:** Help the marketing team design a data-driven campaign.  
 **Highlights:** Customer segmentation, Power BI dashboards, and SQL insights.  
