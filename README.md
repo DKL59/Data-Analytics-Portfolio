@@ -27,8 +27,7 @@ decision-making.
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Tableau" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
@@ -39,38 +38,36 @@ decision-making.
 ## 🧠 Featured Projects
 
 ### 🧩 [1️⃣ 2Market Data Analysis Project](./2Market-Data-Analysis-Project)
-![2Market Banner]([./2Market-Data-Analysis-Project/banner.png](https://chatgpt.com/backend-api/estuary/content?id=file_00000000d948720686e9606a4a3f8aa2&ts=489702&p=fs&cid=1&sig=5a35be443d939d021949151bb44770f54ed7a18b6dc1fd219e2550bf0dff3fd6&v=0))
 
 **Goal:** Help the marketing team design a data-driven campaign.  
-**Highlights:** Customer segmentation, Power BI dashboards, and SQL insights.  
-**Tools:** Excel · SQL (PostgreSQL) · Power BI  
-📄 [Read Report](./2Market-Data-Analysis-Project/2Market_Data_Analysis_Report.pdf)
+**Highlights:** Customer segmentation, Interactive Tableau dashboards, Data cleaning and visualisation using Excel.  
+**Tools:** Excel · SQL (PostgreSQL) · Tableau
+
 
 ---
 
 ### 🏥 [2️⃣ NHS Capacity and Resource Utilisation Analysis](./NHS-Capacity-Analysis)
-![NHS Banner](./NHS-Capacity-Analysis/banner.png)
+
 
 **Goal:** Evaluate NHS resource utilisation to support infrastructure decisions.  
 **Highlights:** Time-series trend analysis, capacity optimization recommendations.  
-**Tools:** Python (Pandas, Matplotlib, Seaborn)  
-📄 [Read Report](./NHS-Capacity-Analysis/Limbu_Dipendra_NHS_Technical_Report_Final.pdf)
+**Tools:** Python (Pandas, Numpy, Matplotlib, Seaborn)  
+
 
 ---
 
 ### 🎮 [3️⃣ Turtle Games Customer Trends Analysis](./Turtle-Games-Insights)
-![Turtle Banner](./Turtle-Games-Insights/banner.png)
+
 
 **Goal:** Identify customer trends and loyalty patterns to improve sales.  
 **Highlights:** Correlation, sentiment analysis (TextBlob), and clustering.  
-**Tools:** Python · Seaborn · TextBlob · NLP  
-📄 [Read Report](./Turtle-Games-Insights/Limbu_Dipendra_Technical_Report_Turtle_Games.pdf)
+**Tools:** Python · Matplotlib · Seaborn · TextBlob · NLP  
+
 
 ---
 
 ## 🧰 Core Skills
-✅ Data Cleaning & Preparation  
-✅ SQL Querying & Database Management  
+✅ Data Cleaning & Preparation    
 ✅ Visualization & Dashboard Design  
 ✅ Exploratory Data Analysis (EDA)  
 ✅ Statistical & Sentiment Analysis  
