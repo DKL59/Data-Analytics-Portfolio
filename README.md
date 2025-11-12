@@ -80,9 +80,6 @@ I’m now looking for remote opportunities as a Data Analyst, Business Intellige
   <a href="https://www.linkedin.com/in/yourlinkedinusername" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40"/>
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="40"/>
-  </a>
   <a href="https://github.com/DKL59" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>
   </a>
