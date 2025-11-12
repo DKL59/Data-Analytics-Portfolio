@@ -24,7 +24,12 @@ I enjoy the full data journey — cleaning, analyzing, visualizing, and ultimate
 
 I’m now looking for remote opportunities as a Data Analyst, Business Intelligence Analyst, or Business Analyst, where I can collaborate with diverse teams and continue learning through meaningful, data-driven work.
 
-📊 Core Skills: Data Cleaning | Visualization | Storytelling | Business Analytics | Reporting
+## 🧰 Core Skills
+✅ Data Cleaning & Preparation    
+✅ Visualization & Dashboard Design  
+✅ Exploratory Data Analysis (EDA)  
+✅ Statistical & Sentiment Analysis  
+✅ Data Storytelling for Business Decisions
 
 ---
 
@@ -67,16 +72,6 @@ I’m now looking for remote opportunities as a Data Analyst, Business Intellige
 **Goal:** Identify customer trends and loyalty patterns to improve sales.  
 **Highlights:** Correlation, sentiment analysis (TextBlob), and clustering.  
 **Tools:** Python · Matplotlib · Seaborn · TextBlob · NLP  
-
-
----
-
-## 🧰 Core Skills
-✅ Data Cleaning & Preparation    
-✅ Visualization & Dashboard Design  
-✅ Exploratory Data Analysis (EDA)  
-✅ Statistical & Sentiment Analysis  
-✅ Data Storytelling for Business Decisions
 
 ---
 
