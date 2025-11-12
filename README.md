@@ -14,12 +14,17 @@
 ---
 
 ## 🧩 About Me
-Hi! I’m **Dipendra**, a data analyst passionate about uncovering insights and turning complex datasets into clear, actionable stories.  
-I specialize in **Python**, **SQL**, **Tableau**, and **Excel**, and I enjoy connecting business goals with data-driven solutions.  
+I’ve always been fascinated by how meanings, patterns, aha moments could be found in the massive heaps of data. That curiosity led me to pursue data analytics, where I now turn raw data into insights that help businesses make better, evidence-based decisions.
 
-I’ve completed projects analyzing marketing performance, healthcare resource utilization, and customer behavior — all designed to support data driven 
-decision-making.
+Recently, I completed the Data Analytics Career Accelerator from The London School of Economics and Political Science (LSE), graduating with Distinction. The program helped me strengthen my skills in Python, SQL, Excel, and Power BI, and taught me how to combine analytical thinking with business storytelling.
 
+Since then, I’ve worked on projects that reflect how data can solve real problems — from helping a retailer (2Market) understand its customers and optimize marketing, to analyzing NHS resource capacity for better decision-making, and exploring customer trends for Turtle Games to improve sales performance.
+
+I enjoy the full data journey — cleaning, analyzing, visualizing, and ultimately turning data into a story that drives action. My goal is always the same: to help teams see what the data is saying and use that insight to move forward confidently.
+
+I’m now looking for remote opportunities as a Data Analyst, Business Intelligence Analyst, or Business Analyst, where I can collaborate with diverse teams and continue learning through meaningful, data-driven work.
+
+📊 Core Skills: Python | SQL | Tableau | Excel | Data Cleaning | Visualization | Storytelling | Business Analytics | Reporting
 ---
 
 ## ⚙️ Tools & Technologies
