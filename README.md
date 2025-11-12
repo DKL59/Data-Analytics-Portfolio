@@ -28,7 +28,7 @@ I’m now looking for remote opportunities as a Data Analyst, Business Intellige
                           Data Cleaning | Visualization | Storytelling | Business Analytics | Reporting
 ---
 
-                                               ## ⚙️ Tools & Technologies
+                                               ⚙️ Tools & Technologies
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
