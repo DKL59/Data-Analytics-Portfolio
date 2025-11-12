@@ -24,7 +24,7 @@ I enjoy the full data journey — cleaning, analyzing, visualizing, and ultimate
 
 I’m now looking for remote opportunities as a Data Analyst, Business Intelligence Analyst, or Business Analyst, where I can collaborate with diverse teams and continue learning through meaningful, data-driven work.
 
-📊 Core Skills: Python | SQL | Tableau | Excel | Data Cleaning | Visualization | Storytelling | Business Analytics | Reporting
+📊 Core Skills: Data Cleaning | Visualization | Storytelling | Business Analytics | Reporting
 ---
 
 ## ⚙️ Tools & Technologies
