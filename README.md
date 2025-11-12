@@ -1,5 +1,5 @@
-                                                         Dipendra Limbu
-      📊 Core Skills: Python | SQL | Tableau | Excel | Data Cleaning | Visualization | Storytelling | Business Analytics | Reporting
+                                                      Dipendra Limbu
+📊 Core Skills: Python | SQL | Tableau | Excel | Data Cleaning | Visualization | Storytelling | Business Analytics | Reporting
 
 I’ve always been fascinated by how meanings, patterns, aha moments could be found in the massive heaps of data. That curiosity led me to pursue data analytics, where I now turn raw data into insights that help businesses make better, evidence-based decisions.
 
