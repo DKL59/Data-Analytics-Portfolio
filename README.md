@@ -1,8 +1,4 @@
 <!-- PROFILE SECTION -->
-<p align="center">
-  <img src="./Dipen.jpg" alt="Dipendra Limbu" width="120" style="border-radius: 50%;">
-</p>
-
 <h1 align="center">📊 Dipendra Limbu</h1>
 <p align="center">
   <b>Data Analyst | Business Intelligence</b><br>
