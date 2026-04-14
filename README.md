@@ -10,11 +10,21 @@
 ---
 
 ## 🧩 About Me
-I’ve always been fascinated by how meanings, patterns, aha moments could be found in the massive heaps of data. That curiosity led me to pursue data analytics, where I now turn raw data into insights that help businesses make better, evidence-based decisions.
+I help businesses make smarter decisions by transforming complex data into clear, actionable insights.
 
-Recently, I completed the Data Analytics Career Accelerator from The London School of Economics and Political Science (LSE). The program helped me strengthen my skills in Python, SQL, Excel, and Power BI, and taught me how to combine analytical thinking with business storytelling. I enjoy the full data journey — cleaning, analyzing, visualizing and reporting the findings. 
-
-I’m now looking for remote opportunities as a Data Analyst, Business Intelligence Analyst, or Business Analyst, where I can collaborate with diverse teams and continue learning through meaningful, data-driven work.
+I have completed the Data Analytics Career Accelerator training from The London School of Economics and Political Science (LSE) presented in collaboration with FourthRev. This training helped me strengthen my skills in Python, Excel, Tableau, SQL and taught me how to combine analytical thinking with business storytelling when providing data-driven solution to business problems. I enjoy the full data journey — cleaning, analyzing, visualizing and reporting the findings. 
+ 
+With hands-on experience in Python, SQL, Tableau, and Excel, I specialize in analyzing large datasets, uncovering trends, and translating findings into strategies that drive measurable impact. My approach goes beyond reporting—I focus on solving real business problems and delivering insights that influence outcomes.
+ 
+With a background in business economics and strategy, I bring a strong understanding of how data connects to business performance, enabling me to bridge the gap between technical analysis and decision-making.
+ 
+What I bring:
+ 
+ - Data analysis using Python (Pandas, NumPy, Scikit-learn) to uncover patterns and opportunities. 
+ - Creating Interactive dashboards in Tableau that communicate insights clearly to stakeholders. 
+ - A business-first mindset—prioritizing insights that solve real problems.
+  
+I’m particularly interested in opportunities where data is used not just to understand the past, but to shape future strategy. I’m now looking for remote opportunities as a Data Analyst, Business Intelligence Analyst, or Business Analyst, where I can collaborate with diverse teams and continue learning through meaningful, data-driven work.
 
 ## 🧰 Core Skills
 ✅ Data Cleaning & Preparation    
